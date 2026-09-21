@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    color:yellow;
+    text-align:black;
+    border: 2px;
+    font-family: cursive;
+    border: radius 12px;
+
+
+}
+
+h1:hover{
+    background-color: rgb(123, 161, 161);
+    color:black
+    font-size 30px;
+    
+
+
+
+}
